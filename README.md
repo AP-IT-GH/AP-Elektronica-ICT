@@ -5,9 +5,9 @@ Welkom op de publieke GitHub pagina van de opleiding elektronica-ICT van de AP H
 
 
 LaTeX sjablonen:
- - bachelorproef/scriptie
- - beamer presentaties
- - verslag
+ - [Bachelorproef scriptie](https://github.com/jeroendoggen/AP-latex-thesis-template "Bachelorproef scriptie") 
+ - [Beamer presentaties]( https://github.com/jeroendoggen/AP-Latex-beamer-template "Beamer presentaties") -
+ - [Verslagen,...](https://github.com/jeroendoggen/latex-templates "Verslagen,..") 
 
 GitHub profielen van de lectoren:
  - https://github.com/jeroendoggen
