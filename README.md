@@ -14,6 +14,9 @@ Gebruik GitHub:
  - [GitHub For Beginners: Don't Get Scared, Get Started](GitHub For Beginners: Don't Get Scared, Get Started "GitHub For Beginners: Don't Get Scared, Get Started")
  - [How the Heck Do I Use GitHub?](http://lifehacker.com/github-is-a-git-remote-repository-hosted-on-the-cloud-465274162 "How the Heck Do I Use GitHub?")
  - [Pro Git book](http://git-scm.com/book "Pro Git book")
+ - [Using Pull Requests](https://help.github.com/articles/using-pull-requests "Using Pull Requests")
+ 
+
 
 
 LaTeX sjablonen:
