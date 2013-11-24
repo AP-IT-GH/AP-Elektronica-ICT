@@ -10,7 +10,11 @@ Gebruik GitHub:
  - [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 "GitHub For Beginners: Don't Get Scared, Get Started")
  - [How the Heck Do I Use GitHub?](http://lifehacker.com/github-is-a-git-remote-repository-hosted-on-the-cloud-465274162 "How the Heck Do I Use GitHub?")
  - [Pro Git book](http://git-scm.com/book "Pro Git book")
+
+Belangrijke workflows:
  - [Using Pull Requests](https://help.github.com/articles/using-pull-requests "Using Pull Requests")
+ - [Forking a Repo](https://help.github.com/articles/fork-a-repo "Forking a Repo")
+ - [Syncing a Fork](https://help.github.com/articles/syncing-a-fork "Syncing a Fork")
  
 LaTeX sjablonen:
  - [Bachelorproef scriptie](https://github.com/jeroendoggen/AP-latex-thesis-template "Bachelorproef scriptie") 
