@@ -17,8 +17,8 @@ Belangrijke workflows:
  - [Syncing a Fork](https://help.github.com/articles/syncing-a-fork "Syncing a Fork")
  
 LaTeX sjablonen:
- - [Bachelorproef scriptie](https://github.com/jeroendoggen/AP-latex-thesis-template "Bachelorproef scriptie") 
- - [Beamer presentaties]( https://github.com/jeroendoggen/AP-Latex-beamer-template "Beamer presentaties") -
+ - [Bachelorproef scriptie](https://github.com/AP-Elektronica-ICT/AP-LaTeX-thesis-template "Bachelorproef scriptie") 
+ - [Beamer presentaties](https://github.com/AP-Elektronica-ICT/AP-LaTeX-beamer-template "Beamer presentaties") -
  - [Verslagen,...](https://github.com/jeroendoggen/latex-templates "Verslagen,..") 
 
 GitHub profielen van de lectoren:
