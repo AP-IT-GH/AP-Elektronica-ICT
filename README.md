@@ -10,6 +10,7 @@ Gebruik GitHub:
  - [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 "GitHub For Beginners: Don't Get Scared, Get Started")
  - [How the Heck Do I Use GitHub?](http://lifehacker.com/github-is-a-git-remote-repository-hosted-on-the-cloud-465274162 "How the Heck Do I Use GitHub?")
  - [Pro Git book](http://git-scm.com/book "Pro Git book")
+ - [Git reference](http://gitref.org/ "Git reference")
 
 Belangrijke workflows:
  - [Using Pull Requests](https://help.github.com/articles/using-pull-requests "Using Pull Requests")
