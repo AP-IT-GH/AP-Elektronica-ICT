@@ -13,8 +13,8 @@ Gebruik GitHub:
  - [Git reference](http://gitref.org/ "Git reference")
 
 Belangrijke workflows:
- - [Using Pull Requests](https://help.github.com/articles/using-pull-requests "Using Pull Requests")
- - [Forking a Repo](https://help.github.com/articles/fork-a-repo "Forking a Repo")
+ - [Forking a Repo](https://help.github.com/articles/fork-a-repo "Forking a Repo"): Maak een kopie van een repository van een bestaand project zodat je er je eigen feature aan kan toevoegen.
+ - [Using Pull Requests](https://help.github.com/articles/using-pull-requests "Using Pull Requests"): Lees hier hoe je de features die je hebt toegevoegd aan je eigen fork terug kan sturen naar het originele project.
  - [Syncing a Fork](https://help.github.com/articles/syncing-a-fork "Syncing a Fork"): Nadat je een fork hebt gemaakt van een andere repository heeft deze nadien nog updates ontvangen. Lees deze uitleg om te weten hoe je deze updates aan je eigen fork kan toevoegen.
  
 LaTeX sjablonen:
