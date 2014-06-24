@@ -15,7 +15,7 @@ Gebruik GitHub:
 Belangrijke workflows:
  - [Using Pull Requests](https://help.github.com/articles/using-pull-requests "Using Pull Requests")
  - [Forking a Repo](https://help.github.com/articles/fork-a-repo "Forking a Repo")
- - [Syncing a Fork](https://help.github.com/articles/syncing-a-fork "Syncing a Fork")
+ - [Syncing a Fork](https://help.github.com/articles/syncing-a-fork "Syncing a Fork"): Nadat je een fork hebt gemaakt van een andere repository heeft deze nadien nog updates ontvangen. Lees deze uitleg om te weten hoe je deze updates aan je eigen fork kan toevoegen.
  
 LaTeX sjablonen:
  - [Bachelorproef scriptie](https://github.com/AP-Elektronica-ICT/AP-LaTeX-thesis-template "Bachelorproef scriptie") 
