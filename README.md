@@ -27,3 +27,5 @@ GitHub profielen van de lectoren:
  - https://github.com/jeroendoggen
  - https://github.com/timdams
  - https://github.com/tomptrs
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/AP-Elektronica-ICT/AP-Elektronica-ICT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
