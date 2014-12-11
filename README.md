@@ -11,6 +11,7 @@ Gebruik GitHub:
  - [How the Heck Do I Use GitHub?](http://lifehacker.com/github-is-a-git-remote-repository-hosted-on-the-cloud-465274162 "How the Heck Do I Use GitHub?")
  - [Pro Git book](http://git-scm.com/book "Pro Git book")
  - [Git reference](http://gitref.org/ "Git reference")
+ - [Mastering Issues](https://guides.github.com/features/issues/ "Mastering Issues")
 
 Belangrijke workflows:
  - [Forking a Repo](https://help.github.com/articles/fork-a-repo "Forking a Repo"): Maak een kopie van een repository van een bestaand project zodat je er je eigen feature aan kan toevoegen.
