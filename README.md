@@ -21,6 +21,7 @@ Belangrijke workflows:
  - [Creating a new repo starting from one folder in an other repo](http://jamesreubenknowles.com/how-to-extract-a-subdirectory-as-a-new-git-repository-1566 "Creating a new repo starting from one folder in an other repo"): Stel je hebt een grote repo waar meerdere projecten samen staan. Als je deze stappen uitvoert bekom je voor elk project een aparte repo.
 
 LaTeX sjablonen:
+ - [Inleidende LaTeX presentatie](https://github.com/AP-Elektronica-ICT/LaTeX "Inleidende LaTeX presentatie")
  - [Bachelorproef scriptie](https://github.com/AP-Elektronica-ICT/AP-LaTeX-thesis-template "Bachelorproef scriptie") 
  - [Beamer presentaties](https://github.com/AP-Elektronica-ICT/AP-LaTeX-beamer-template "Beamer presentaties") -
  - [Verslagen,...](https://github.com/jeroendoggen/latex-templates "Verslagen,..") 
