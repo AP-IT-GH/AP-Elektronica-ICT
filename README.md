@@ -4,7 +4,7 @@ We maken gebruik van GitHub binnen de volgende vakken:
  - Smart Objects 5
  - Multimedia systems 5
 
-Ben je één van onze studenten en zou je voor een ander vak een privé repository willen gebruiken, neem dan contact op met Jeroen Doggen.
+Ben je één van onze studenten en zou je voor een ander vak een privé repository willen gebruiken, neem dan contact op met Tim Dams.
 
 Gebruik GitHub:
  - [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 "GitHub For Beginners: Don't Get Scared, Get Started")
@@ -27,6 +27,5 @@ LaTeX sjablonen:
  - [Verslagen,...](https://github.com/jeroendoggen/latex-templates "Verslagen,..") 
 
 GitHub profielen van de lectoren:
- - https://github.com/jeroendoggen
  - https://github.com/timdams
  - https://github.com/tomptrs
